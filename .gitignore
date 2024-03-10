@@ -1,0 +1,11 @@
+# Node.js
+/DB-Assignment/node_modules/
+
+
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# Dependency directories
+npm-debug.log
